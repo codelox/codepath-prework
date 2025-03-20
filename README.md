@@ -15,11 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-## App Brainstorming (Step 4)
 
 ## Notes
 
@@ -27,6 +23,8 @@ Challenges encountered while building the app.
 
 1. After adding the Undo Button, it was not responding when clicked. This happened because the button was not properly connected to the @IBAction function in ViewController.swift.
 2. When implementing the Undo feature, the app initially didn’t restore the correct previous color. 
+
+Overall I really enjoyed building Colorshift because it was simple, fun, and a great way to explore UI animations in iOS
 
 ## License
 
