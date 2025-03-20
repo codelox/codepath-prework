@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Colorshift*
 
 Submitted by: **Jay Boghawala**
 
-**Colorshift** is an app that... [ lets you seamlessly change and revert background colors with a tap.] 
+**Colorshift** is an app that lets you seamlessly change and revert background colors with a tap.
 
 Time spent: **4** hours spent in total
 
@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app.
 
 1. After adding the Undo Button, it was not responding when clicked. This happened because the button was not properly connected to the @IBAction function in ViewController.swift.
 2. When implementing the Undo feature, the app initially didn’t restore the correct previous color. 
