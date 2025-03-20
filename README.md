@@ -1,17 +1,17 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jay Boghawala**
 
-**Name of your app** is an app that... [TODO] 
+**Colorshift** is an app that... [ lets you seamlessly change and revert background colors with a tap.] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -25,9 +25,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+1. After adding the Undo Button, it was not responding when clicked. This happened because the button was not properly connected to the @IBAction function in ViewController.swift.
+2. When implementing the Undo feature, the app initially didn’t restore the correct previous color. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jay Boghawala]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
